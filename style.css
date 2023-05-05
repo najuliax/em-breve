@@ -1,5 +1,5 @@
 body{
-  background-color: rgba(190, 56, 101, 0.844);
+  background-color: rgba(255, 129, 171, 0.844);
 }
 .intro{
   color: aliceblue;
@@ -9,7 +9,7 @@ body{
 }
 .name
 {
-  color: rgb(222, 186, 7);
+  color: rgb(83, 3, 99);
   font-size: 50px;
   text-align: center;
   margin-top: 20px;
@@ -18,21 +18,22 @@ body{
 .slogan{
   text-align: center;
   margin-top: 10px;
-  color: rgb(219, 219, 79);
+  color: rgba(136, 11, 136, 0.932);
   }
+
+
 .novo{
   font-size: 18px;
   margin-top: 70px;
  margin-left: 270px;
- background-color: rgb(222, 186, 7);
- 
-
+ background-color: rgb(235, 88, 235);
+ height: 20px;
+ width: 170px;
   }
   .saiba{
     font-size: 18px;
-    margin-top: -16px;
+    margin-top: -20px;
     margin-left: 140px;
     text-decoration: underline;
     color:beige
   }
-
