@@ -1,10 +1,10 @@
 body{
-  background-color: rgba(255, 147, 183, 0.844);
+  background-color: rgba(255, 255, 255, 0.844);
 }
 .intro{
-  color: aliceblue;
+  color: rgb(5, 6, 7);
   text-align: center;
-  margin-top: 200px;
+  margin-top: 60px;
   font-weight: bold;
 }
 .name
@@ -39,6 +39,8 @@ body{
   }
 
 img{
-  height: 400px;
-  width: 700px;
+  height: 200px;
+  width: 200px;
+  margin-left: 150;
+  margin-top: 40;
 }
