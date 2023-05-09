@@ -1,11 +1,12 @@
 body{
-  background-color: rgba(255, 255, 255, 0.844);
+  background-color: #FFF
 }
 .intro{
-  color: rgb(5, 6, 7);
+  color: rgb(225, 155, 175);
   text-align: center;
   margin-top: 60px;
   font-weight: bold;
+  font-size: 1cm;
 }
 .name
 {
