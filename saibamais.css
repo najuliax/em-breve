@@ -9,7 +9,7 @@ body{
 }
 .name
 {
-  color: rgb(83, 3, 99);
+  color: rgb(0, 0, 0);
   font-size: 20px;
   text-align: center;
   margin-top: 20px;
@@ -18,29 +18,25 @@ body{
 .slogan{
   text-align: center;
   margin-top: 30px;
-  color: rgba(136, 11, 136, 0.932);
+  color: rgba(2, 1, 2, 0.932);
   font-size: 20;
   }
 
 
-.novo{
-  font-size: 18px;
-  margin-top: 70px;
- margin-left: 270px;
- background-color: rgb(235, 88, 235);
- height: 20px;
- width: 170px;
-  }
   .saiba{
     font-size: 18px;
     margin-top: 50px;
-    margin-left: 140px;
-    color:beige
+    color:rgb(0, 0, 0);
+    text-align: center;
+
   }
 
 img{
   height: 200px;
   width: 200px;
-  margin-left: 150;
   margin-top: 40;
+}
+
+.matheus{
+  text-align: center;
 }
